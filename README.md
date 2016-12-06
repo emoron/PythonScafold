@@ -1,7 +1,6 @@
 # PythonScafold
 ## Plantilla para la entrega de proyectos de Computacion I
-
-
+Supongamos que el laboratorio contiene varios ejercicios y deseas organizarlos por carpetas
 
 La documentación de python explica que es posible utilizar un archivo para ejecutar diversas instancias de programas unicamente sigue esta pequeña guia.
 
