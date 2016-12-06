@@ -11,7 +11,7 @@ En tu editor favorito crea el archivo  ```app/__main__.py```. agrega la siguien
 
 ```{python}
 
-# Ejemplo del contenido app/__main__.py
+# Ejemplo del contenido app/main.py
 
 ##Primero importamos los archivos
 import tarea1 as t1
