@@ -67,4 +67,4 @@ Para ejecutar tu programa unicamente llamarás al programa main de la siguiente 
 python main.py
 ```
 
-o si lo prefieres en ipython puedes utilizar el comando ````run main.py```.
+o si lo prefieres en ipython puedes utilizar el comando ```run main.py```.
