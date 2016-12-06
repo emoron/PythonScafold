@@ -68,3 +68,8 @@ python main.py
 ```
 
 o si lo prefieres en ipython puedes utilizar el comando ```run main.py```.
+
+
+Finalmente la apariencia de nuestro proyecto quedaría de la siguiente manera:   
+
+![archivos](/images/example3.png)
