@@ -1,11 +1,14 @@
 # PythonScafold
 ## Plantilla para la entrega de proyectos de Computacion I
 
-How to use a ```__main__.py``` file
 
-La documentacin de python explica que es posible utilizar un archivo para ejecutar diversas instancias de programas unicamente sigue esta pequeña guia.
 
-** Crear el directorio del proyecto **En tu editor favorito crea el archivo  ```app/__main__.py```. agrega la siguiente lineas de código:
+La documentación de python explica que es posible utilizar un archivo para ejecutar diversas instancias de programas unicamente sigue esta pequeña guia.
+
+** Crear el directorio del proyecto **
+
+En tu editor favorito crea el archivo  ```app/__main__.py```. agrega la siguiente lineas de código:
+
 ```{python}
 
 # Ejemplo del contenido app/__main__.py
