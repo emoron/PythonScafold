@@ -1,5 +1,5 @@
 # PythonScafold
-## Plantilla para la entrega de proyectos de Computacion I
+## Plantilla para la entrega de proyectos de Computacion I a partir del Laboratorio3b
 Supongamos que el laboratorio contiene varios ejercicios y deseas organizarlos por carpetas como se muestra en la siguiente imagen:   
 
 ![Carpeta Ejemplo](/images/example1.png)
